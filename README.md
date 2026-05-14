@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/felipe-laurindo/">Felipe Laurindo</a>'s IT and Front-End Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/felipe-laurindo/">Felipe Laurindo</a>'s Front-End Project Portfolio 🔐
 
 I'm passionate about Front-End development and enjoy turning ideas into modern, functional, and intuitive interfaces through hands-on projects. From responsive design to building interactive and high-performance user experiences, these projects allow me to explore new technologies and continuously improve my web development skills. Feel free to check them out and see the work I’ve been doing to create efficient and visually engaging applications.
 
