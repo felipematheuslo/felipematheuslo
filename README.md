@@ -84,18 +84,6 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipematheuslo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheuslo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect
