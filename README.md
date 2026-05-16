@@ -4,7 +4,7 @@ I'm passionate about Front-End development and enjoy turning ideas into modern, 
 
 ## Front-End Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager)**
 
 <hr/>
 
