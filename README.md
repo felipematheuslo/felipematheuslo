@@ -9,20 +9,16 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a strong focus on **UI/UX design** and creating interfaces that feel alive. I care deeply about the intersection of beautiful design and solid engineering — building products that are not only visually polished but also performant, accessible, and delightful to use.
 
-- 🎨 Passionate about **design systems**, **mobile-first interfaces**, and **micro-interactions**
-- ⚡ I focus on **component-driven architectures** and **real-time user experiences**
-- 🚀 I've shipped products with **real B2B paying clients** — not just portfolio projects
-- 🌍 Open to **international remote opportunities**
+- Passionate about **design systems**, **mobile-first interfaces**, and **micro-interactions**
+- I focus on **component-driven architectures** and **real-time user experiences**
+- I've shipped products with **real B2B paying clients** — not just portfolio projects
+- Open to **international remote opportunities**
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -36,15 +32,15 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br />
+
 <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=felipematheuslo&layout=compact&langs_count=7" alt="Most used languages" />
 
 </div>
 
----
+## Featured Projects
 
-## 📂 Featured Projects
-
-### 🎤 [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager)
+### [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager)
 
 > A real-time queue management platform for karaoke venues — **validated in the market with active paying clients.**
 
@@ -60,12 +56,12 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
     <td width="50%">
 
 **Key Highlights:**
-- 🟢 **Commercially validated** — sold to local venues as a B2B product
-- ⚡ **Real-time sync** via Firebase Realtime Database (WebSockets)
-- 📱 **Mobile-first dark mode UI** optimized for low-light bar environments
-- 🔐 **Secure admin dashboard** with Firebase Authentication
-- 🧩 **MPA architecture** with code splitting for optimized performance
-- ♿ **Accessible components** via Vuetify (Material Design / a11y)
+- **Commercially validated** — sold to local venues as a B2B product
+- **Real-time sync** via Firebase Realtime Database (WebSockets)
+- **Mobile-first dark mode UI** optimized for low-light bar environments
+- **Secure admin dashboard** with Firebase Authentication
+- **MPA architecture** with code splitting for optimized performance
+- **Accessible components** via Vuetify (Material Design / a11y)
 
 </td>
   </tr>
@@ -73,9 +69,39 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 **Tech:** `Vue.js 3` · `Vuetify 3` · `Firebase Realtime DB` · `Firebase Auth` · `Material Design` · `MPA Architecture`
 
----
+<br />
 
-## 🎯 What I Bring to a Team
+### [67 Aura Farming](https://github.com/felipematheuslo/67aurafarming)
+
+> A native Android arcade clicker game built with Jetpack Compose — **test your speed and reflexes in 30 seconds.**
+
+<table>
+  <tr>
+    <td width="50%">
+
+**The Concept:** A fast-paced clicker game where players have exactly 30 seconds to tap as many times as possible to secure a spot in the local Top 10 leaderboard.
+
+**The Execution:** Built entirely with Kotlin and Jetpack Compose, the app showcases declarative UI principles, state management (finite state machine), and fluid micro-animations for kinetic feedback.
+
+</td>
+    <td width="50%">
+
+**Key Highlights:**
+- **Native Android** built 100% with Kotlin and Jetpack Compose
+- **Declarative UI** replacing legacy XML layouts
+- **Fluid Animations** using Compose's animation APIs for kinetic response
+- **Local Leaderboard** with persistent high scores via SharedPreferences
+- **State Management** using predictable GameState transitions
+
+</td>
+  </tr>
+</table>
+
+**Tech:** `Kotlin` · `Jetpack Compose` · `Android SDK` · `SharedPreferences`
+
+<br />
+
+## What I Bring to a Team
 
 | Strength | Description |
 |:---------|:------------|
@@ -84,16 +110,16 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 | **Real-Time Systems** | Hands-on experience with WebSocket-based architectures and optimistic UI patterns. |
 | **End-to-End Ownership** | From market research to deployment and B2B sales — I've done the full product lifecycle. |
 
----
+<br />
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
 I'm always open to new opportunities, collaborations, and conversations about front-end development and design.
 
-**📧 Reach me on [LinkedIn](https://linkedin.com/in/felipe-laurindo)**
+**Reach me on [LinkedIn](https://linkedin.com/in/felipe-laurindo)**
 
-<sub>⭐ If you find my work interesting, consider giving my repos a star!</sub>
+<sub>If you find my work interesting, consider giving my repos a star!</sub>
 
 </div>
