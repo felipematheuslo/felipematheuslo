@@ -71,7 +71,7 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 <br />
 
-### [67 Aura Farming](https://github.com/felipematheuslo/67aurafarming)
+### [67 Aura Farming](https://github.com/felipematheuslo/67-aura-farming-android)
 
 > A native Android arcade clicker game built with Jetpack Compose — **test your speed and reflexes in 30 seconds.**
 
