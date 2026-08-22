@@ -22,6 +22,8 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 <div align="center">
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -39,6 +41,37 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 </div>
 
 ## Featured Projects
+
+### [Mamão com Açúcar](https://github.com/felipematheuslo/mamao-com-acucar-android)
+
+> A collaborative urban mapping application for locating and monitoring public fruit trees across Brazilian cities.
+
+<table>
+  <tr>
+    <td width="50%">
+
+**The Problem:** Public spaces in Brazilian cities are filled with fruit trees, but their harvests frequently go ungathered or wasted due to a lack of visibility and real-time tracking.
+
+**The Solution:** A community-driven mobile platform where citizens register tree coordinates, track fruiting stages in real time (blooming, green, ripe, or out of season), and share crowdsourced updates.
+
+</td>
+    <td width="50%">
+
+**Key Highlights:**
+- **Product Evolution** — prototyped in React/Vite and re-engineered natively in Kotlin + Jetpack Compose
+- **High-Performance Vector Map** powered by OSMDroid with 4 tile themes & disk tile cache
+- **Proximity Discovery** — dynamic tree sorting using geodesic distance formulas (Haversine)
+- **Real-time Sync** via Cloud Firestore & secure Firebase Auth session persistence
+- **Outdoor UI/UX** — Material Design 3, edge-to-edge layout, and low-cognitive-load status indicators
+- **Gamification** — progression rank badges (*Sementinha* to *Mestre Frutífero*) for community retention
+
+</td>
+  </tr>
+</table>
+
+**Tech:** `Kotlin 2.0+` · `Jetpack Compose` · `Material 3` · `OSMDroid` · `Firebase Firestore` · `Firebase Auth` · `MVVM`
+
+<br />
 
 ### [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager)
 
