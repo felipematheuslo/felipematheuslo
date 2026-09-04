@@ -104,36 +104,6 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 <br />
 
-### [67 Aura Farming](https://github.com/felipematheuslo/67-aura-farming-android)
-
-> A native Android arcade clicker game built with Jetpack Compose — **test your speed and reflexes in 30 seconds.**
-
-<table>
-  <tr>
-    <td width="50%">
-
-**The Concept:** A fast-paced clicker game where players have exactly 30 seconds to tap as many times as possible to secure a spot in the local Top 10 leaderboard.
-
-**The Execution:** Built entirely with Kotlin and Jetpack Compose, the app showcases declarative UI principles, state management (finite state machine), and fluid micro-animations for kinetic feedback.
-
-</td>
-    <td width="50%">
-
-**Key Highlights:**
-- **Native Android** built 100% with Kotlin and Jetpack Compose
-- **Declarative UI** replacing legacy XML layouts
-- **Fluid Animations** using Compose's animation APIs for kinetic response
-- **Local Leaderboard** with persistent high scores via SharedPreferences
-- **State Management** using predictable GameState transitions
-
-</td>
-  </tr>
-</table>
-
-**Tech:** `Kotlin` · `Jetpack Compose` · `Android SDK` · `SharedPreferences`
-
-<br />
-
 ## What I Bring to a Team
 
 | Strength | Description |
