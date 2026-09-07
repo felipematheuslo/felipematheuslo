@@ -2,43 +2,40 @@
 
 # Hey there, I'm Felipe Laurindo 👋
 
-### Front-End Developer · UI/UX Enthusiast · Building Polished Digital Experiences
+### Mobile (Android) & Front-End Developer · UI/UX Focused · Building Polished Products
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-laurindo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipematheuslo)
+[![Google Play](https://img.shields.io/badge/Google_Play-2_Apps_Live-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Felipe+Laurindo)
+[![Commercial](https://img.shields.io/badge/Track_Record-Paying_B2B_Clients-1867C0?style=flat-square)](https://github.com/felipematheuslo/karaoke-queue-manager)
+[![Architecture](https://img.shields.io/badge/Architecture-Offline--First_%26_Realtime-10B981?style=flat-square)](https://github.com/felipematheuslo)
+[![Location](https://img.shields.io/badge/Location-João_Pessoa,_Brazil_🇧🇷-757575?style=flat-square)](https://github.com/felipematheuslo)
+
+<br /><br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-laurindo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipematheuslo)
 
 </div>
 
 ## About Me
 
-I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a strong focus on **UI/UX design** and creating interfaces that feel alive. I care deeply about the intersection of beautiful design and solid engineering — building products that are not only visually polished but also performant, accessible, and delightful to use.
+I'm a **Mobile (Android) & Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 specializing in the intersection of **human-centered UI/UX design** and **solid engineering**. I don't just build interfaces — I ship software that feels alive, runs resiliently under real-world constraints, and solves genuine user problems.
 
-- Passionate about **design systems**, **mobile-first interfaces**, and **micro-interactions**
-- I focus on **component-driven architectures** and **real-time user experiences**
-- I've shipped products with **real B2B paying clients** — not just portfolio projects
+- **Real-World Track Record:** Published native Android applications live on the **Google Play Store** and shipped web software with **paying commercial clients**
+- **Native Android Engineering:** High-performance apps built with **Kotlin 2.0+**, **Jetpack Compose**, and **Material 3**
+- **Reactive Web Front-End:** Fluid, component-driven web applications crafted with **Vue.js 3** and **Vuetify**
+- **Architecture & Systems:** Deep focus on **MVVM**, **Coroutines & Flow**, **WebSockets**, and **Offline-First** systems
 - Open to **international remote opportunities**
 
 ## Tech Stack
 
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Domain | Technologies & Tools |
+|:---|:---|
+| **Mobile (Android)** | ![Kotlin](https://img.shields.io/badge/Kotlin_2.0+-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Web & Front-End** | ![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Vuetify 3](https://img.shields.io/badge/Vuetify_3-1867C0?style=flat-square&logo=vuetify&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Cloud & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white) ![Realtime DB](https://img.shields.io/badge/Realtime_DB-WebSockets-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white) |
+| **Design & Workflow** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 <br />
-
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=felipematheuslo&layout=compact&langs_count=7" alt="Most used languages" />
-
-</div>
 
 ## Featured Projects
 
@@ -179,21 +176,24 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 | Strength | Description |
 |:---------|:------------|
-| **Product Thinking** | I don't just code features — I research users, validate assumptions, and ship with the end-user in mind. |
-| **UI/UX Craftsmanship** | Every pixel matters. I build interfaces that are responsive, accessible, and aesthetically refined. |
-| **Real-Time Systems** | Hands-on experience with WebSocket-based architectures and optimistic UI patterns. |
-| **End-to-End Ownership** | From market research to deployment and B2B sales — I've done the full product lifecycle. |
+| **Full Lifecycle Ownership** | From user research and Figma prototyping to Google Play publishing and B2B commercial delivery. |
+| **Mobile & Web Craftsmanship** | Deep native Android execution (Kotlin, Jetpack Compose) paired with modern reactive web architectures (Vue.js). |
+| **Real-Time & Offline Systems** | Hands-on experience with WebSocket architectures, offline-first data synchronization, and optimistic UI patterns. |
+| **UI/UX Engineering** | Every pixel matters. High-contrast readability, thumb-friendly ergonomics, edge-to-edge layouts, and micro-interactions. |
 
 <br />
 
 <div align="center">
 
-### Let's Connect
+### Let's Build Something Great Together 🤝
 
-I'm always open to new opportunities, collaborations, and conversations about front-end development and design.
+I'm actively exploring new opportunities, international remote roles, and innovative collaborations in **Mobile (Android)** and **Front-End** engineering.
 
-**Reach me on [LinkedIn](https://linkedin.com/in/felipe-laurindo)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-laurindo)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipematheuslo)
 
-<sub>If you find my work interesting, consider giving my repos a star!</sub>
+<br /><br />
+
+<sub>If you appreciate my work, feel free to leave a star ⭐ on the repositories!</sub>
 
 </div>
