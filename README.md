@@ -9,7 +9,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Offline--First_%26_Realtime-10B981?style=flat-square)](https://github.com/felipematheuslo)
 [![Location](https://img.shields.io/badge/Location-João_Pessoa,_Brazil_🇧🇷-757575?style=flat-square)](https://github.com/felipematheuslo)
 
-<br /><br />
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-laurindo)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipematheuslo)
