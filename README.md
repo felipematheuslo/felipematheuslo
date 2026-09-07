@@ -42,28 +42,33 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 ## Featured Projects
 
-### [Mamão com Açúcar](https://github.com/felipematheuslo/mamao-com-acucar-android)
+---
 
-> A collaborative urban mapping application for locating and monitoring public fruit trees across Brazilian cities.
+### 01 · [Mamão com Açúcar](https://github.com/felipematheuslo/mamao-com-acucar-android) &nbsp; ![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&logo=android&logoColor=white) &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-Live_on_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.felipelaurindo.mamaocomacucar) &nbsp; ![Domain](https://img.shields.io/badge/Domain-Urban_Mapping-F97316?style=flat-square)
+
+> A community-driven urban mapping mobile application designed with a focus on UI/UX engineering, real-time synchronization, and local food sustainability — **published on Google Play.**
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="30%" align="center" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.felipelaurindo.mamaocomacucar" target="_blank">
+        <img src="assets/mamao-com-acucar-preview.jpg" alt="Mamão com Açúcar Preview" width="220" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
 
 **The Problem:** Public spaces in Brazilian cities are filled with fruit trees, but their harvests frequently go ungathered or wasted due to a lack of visibility and real-time tracking.
 
 **The Solution:** A community-driven mobile platform where citizens register tree coordinates, track fruiting stages in real time (blooming, green, ripe, or out of season), and share crowdsourced updates.
 
-</td>
-    <td width="50%">
-
 **Key Highlights:**
-- **Product Evolution** — prototyped in React/Vite and re-engineered natively in Kotlin + Jetpack Compose
-- **High-Performance Vector Map** powered by OSMDroid with 4 tile themes & disk tile cache
-- **Proximity Discovery** — dynamic tree sorting using geodesic distance formulas (Haversine)
-- **Real-time Sync** via Cloud Firestore & secure Firebase Auth session persistence
-- **Outdoor UI/UX** — Material Design 3, edge-to-edge layout, and low-cognitive-load status indicators
-- **Gamification** — progression rank badges (*Sementinha* to *Mestre Frutífero*) for community retention
+- **Live on Google Play** — production-grade release published and available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.felipelaurindo.mamaocomacucar)
+- **Product Evolution** — prototyped in React/Vite and re-engineered natively in Kotlin 2.0+ and Jetpack Compose
+- **High-Performance Vector Map** — OSMDroid vector engine with disk tile cache & outdoor high-contrast themes (Esri Topo / Satellite)
+- **Native Botanical Guide** — comprehensive in-app catalog of 68 fruit tree species with curated vector icons and botanical metadata
+- **Proximity Discovery** — real-time tree sorting relative to live GPS coordinates using geodesic formulas (Haversine)
+- **Real-time Sync & Auth** — Cloud Firestore live updates and secure authentication with modern Google Credential Manager
+- **Outdoor UI/UX & Gamification** — Material 3 edge-to-edge layout and contributor ranks (*Sementinha* to *Mestre Frutífero*)
 
 </td>
   </tr>
@@ -77,10 +82,14 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 ![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-0288D1?style=flat-square)
+![Coroutines & Flow](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white)
 
 <br />
 
-### [Mobile Money Calculator](https://github.com/felipematheuslo/mobile-money-calc-android) [![Google Play](https://img.shields.io/badge/Google_Play-Live_on_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc)
+---
+
+### 02 · [Mobile Money Calculator](https://github.com/felipematheuslo/mobile-money-calc-android) &nbsp; ![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&logo=android&logoColor=white) &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-Live_on_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc) &nbsp; ![Domain](https://img.shields.io/badge/Domain-Fintech_Utility-10B981?style=flat-square)
 
 > A high-performance, 100% offline financial utility app built for East African mobile money networks (Kenya & Uganda), eliminating mental math errors and transaction fee disputes — **published on Google Play.**
 
@@ -89,10 +98,6 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
     <td width="30%" align="center" valign="middle">
       <a href="https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc" target="_blank">
         <img src="assets/mobile-money-calc-preview.jpg" alt="Mobile Money Calculator Preview" width="220" />
-      </a>
-      <br /><br />
-      <a href="https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
       </a>
     </td>
     <td width="70%" valign="top">
@@ -126,7 +131,9 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 <br />
 
-### [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager)
+---
+
+### 03 · [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager) &nbsp; ![Web](https://img.shields.io/badge/Web-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) &nbsp; ![Domain](https://img.shields.io/badge/Domain-B2B_SaaS-1867C0?style=flat-square)
 
 > A real-time queue management platform for karaoke venues — **validated in the market with active paying clients.**
 
@@ -162,6 +169,8 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 ![MPA](https://img.shields.io/badge/Architecture-MPA-0288D1?style=flat-square)
 
 <br />
+
+---
 
 ## What I Bring to a Team
 
