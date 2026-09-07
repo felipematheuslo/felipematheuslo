@@ -69,7 +69,60 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
   </tr>
 </table>
 
-**Tech:** `Kotlin 2.0+` · `Jetpack Compose` · `Material 3` · `OSMDroid` · `Firebase Firestore` · `Firebase Auth` · `MVVM`
+**Tech:**
+![Kotlin](https://img.shields.io/badge/Kotlin_2.0+-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![OSMDroid](https://img.shields.io/badge/OSMDroid-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-0288D1?style=flat-square)
+
+<br />
+
+### [Mobile Money Calculator](https://github.com/felipematheuslo/mobile-money-calc-android) [![Google Play](https://img.shields.io/badge/Google_Play-Live_on_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc)
+
+> A high-performance, 100% offline financial utility app built for East African mobile money networks (Kenya & Uganda), eliminating mental math errors and transaction fee disputes — **published on Google Play.**
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc" target="_blank">
+        <img src="assets/mobile-money-calc-preview.jpg" alt="Mobile Money Calculator Preview" width="220" />
+      </a>
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+
+**The Problem:** Millions across East Africa rely on mobile money (M-Pesa, MTN MoMo, Airtel), but complex multi-tier tariffs, agent withdrawal fees, and statutory taxes (e.g., 0.5% in Uganda) lead to counter arguments and costly shortfalls during transactions.
+
+**The Solution:** A zero-latency, 100% offline Android utility that solves the "Send for Cash" equation instantly — calculating the exact send subtotal, provider transfer fee, and agent withdrawal fee so the recipient withdraws the exact cash needed with zero friction.
+
+**Key Highlights:**
+- **Live on Google Play** — production-grade release published and available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.felipelaurindo.mobilemoneycalc)
+- **"Send for Cash" Reverse Math** — proprietary reverse-tier calculation engine covering both send fees and recipient withdrawal charges
+- **Multi-Carrier Offline Engine** — instant calculations for Safaricom M-Pesa (Kenya), MTN Mobile Money, and Airtel Money (Uganda) with statutory tax integration
+- **Ultra-Low-End Device Optimization** — built for 1GB–3GB RAM devices (Android Go) with <100ms cold start and 0 KB external graphics assets
+- **Ergonomic Custom Numpad** — full-width large-button keypad designed for fast, one-handed operation without OS keyboard latency
+- **Dynamic Brand-Reactive Theming** — interface dynamically shifts color identity per carrier (Safaricom Green, MTN Yellow, Airtel Red)
+- **Smart Digital Receipt** — real-time breakdown with animated line items and zero Cumulative Layout Shift (CLS) AdMob placement
+
+</td>
+  </tr>
+</table>
+
+**Tech:**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Offline-First](https://img.shields.io/badge/Offline--First-10B981?style=flat-square)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-0288D1?style=flat-square)
+![Coroutines & Flow](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 <br />
 
@@ -100,7 +153,13 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
   </tr>
 </table>
 
-**Tech:** `Vue.js 3` · `Vuetify 3` · `Firebase Realtime DB` · `Firebase Auth` · `Material Design` · `MPA Architecture`
+**Tech:**
+![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vuetify 3](https://img.shields.io/badge/Vuetify_3-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![Realtime DB](https://img.shields.io/badge/Realtime_DB-WebSockets-FFA611?style=flat-square&logo=firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![MPA](https://img.shields.io/badge/Architecture-MPA-0288D1?style=flat-square)
 
 <br />
 
