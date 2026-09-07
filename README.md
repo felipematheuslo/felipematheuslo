@@ -133,28 +133,30 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 
 ---
 
-### 03 · [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager) &nbsp; ![Web](https://img.shields.io/badge/Web-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) &nbsp; ![Domain](https://img.shields.io/badge/Domain-B2B_SaaS-1867C0?style=flat-square)
+### 03 · [Karaoke Queue Manager](https://github.com/felipematheuslo/karaoke-queue-manager) &nbsp; ![Web](https://img.shields.io/badge/Web-Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) &nbsp; ![Track Record](https://img.shields.io/badge/Track_Record-Paying_B2B_Clients-1867C0?style=flat-square) &nbsp; ![Domain](https://img.shields.io/badge/Domain-Realtime_Queue-FFA611?style=flat-square)
 
-> A real-time queue management platform for karaoke venues — **validated in the market with active paying clients.**
+> A real-time B2B queue management web app for entertainment venues — **field-tested, commercially validated, and operated with paying clients.**
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/felipematheuslo/karaoke-queue-manager">
+        <img src="assets/karaoke-queue-preview.png" alt="Karaoke Queue Manager Client and Admin Preview" width="280" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
 
-**The Problem:** Karaoke nights in bars are chaotic — paper slips get lost, spreadsheets freeze, and patrons have no visibility into the queue.
+**The Problem:** Karaoke nights in entertainment venues are notoriously chaotic — paper slips get lost, physical spreadsheets cause bottlenecks, and patrons have zero visibility into their real-time stage queue position.
 
-**The Solution:** A mobile-first, real-time web app where patrons join the queue from their phones and admins manage everything from a protected dashboard — all synchronized instantly via WebSockets.
-
-</td>
-    <td width="50%">
+**The Solution:** A mobile-first, real-time web platform where patrons join the queue instantly from their smartphones with zero-login onboarding, while KJs and venue managers operate a protected real-time dashboard powered by WebSockets.
 
 **Key Highlights:**
-- **Commercially validated** — sold to local venues as a B2B product
-- **Real-time sync** via Firebase Realtime Database (WebSockets)
-- **Mobile-first dark mode UI** optimized for low-light bar environments
-- **Secure admin dashboard** with Firebase Authentication
-- **MPA architecture** with code splitting for optimized performance
-- **Accessible components** via Vuetify (Material Design / a11y)
+- **Commercial Track Record** — successfully sold and operated as a B2B product with paying entertainment venue clients
+- **Dual Client & Admin Architecture** — distinct experiences: instant patron signup alongside a 1-click KJ control console
+- **Real-Time WebSocket Sync** — sub-second updates powered by Firebase Realtime Database with live queue state locking
+- **Live Session Counters** — thread-safe tracking of total, called, and removed singers per night using Firebase atomic increments
+- **Multi-Page Architecture (MPA)** — code-split bundles separating client and admin contexts for optimized mobile load times
+- **Low-Light UI/UX** — dark mode design system built with Vuetify 3 / Material Design for optimal readability in bar environments
 
 </td>
   </tr>
@@ -163,10 +165,11 @@ I'm a **Front-End Developer** based in **João Pessoa, Brazil** 🇧🇷 with a 
 **Tech:**
 ![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuetify 3](https://img.shields.io/badge/Vuetify_3-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-![Realtime DB](https://img.shields.io/badge/Realtime_DB-WebSockets-FFA611?style=flat-square&logo=firebase&logoColor=white)
+![Realtime DB](https://img.shields.io/badge/Firebase-Realtime_DB-FFA611?style=flat-square&logo=firebase&logoColor=white)
+![WebSockets](https://img.shields.io/badge/Protocol-WebSockets-231F20?style=flat-square)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
-![MPA](https://img.shields.io/badge/Architecture-MPA-0288D1?style=flat-square)
+![MPA](https://img.shields.io/badge/Architecture-MPA_Code_Splitting-0288D1?style=flat-square)
+![Session Metrics](https://img.shields.io/badge/Metrics-Live_Counters-10B981?style=flat-square)
 
 <br />
 
